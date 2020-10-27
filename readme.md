@@ -2,6 +2,14 @@
 
 Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的组件信息，并且在这里进行汇总。
 
+- [阿里云](#阿里云)
+- [AWS](#AWS)
+- [Azure](#Azure)
+- [百度云](#百度云)
+- [Google Cloud](#Google-Cloud)
+- [华为云](#华为云)
+- [腾讯云](#腾讯云)
+
 ## 阿里云
 
 ### 基础云资源

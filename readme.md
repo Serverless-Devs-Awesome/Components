@@ -1,13 +1,5 @@
 # Serverless Devs Components
 
-<div align=center> <img src="https://images.serverlessfans.com/devs-github/logo.jpg" width="100%"/> </div>
-
-
-<p align="center">
-  <span>像使用手机一样使用Serverless</span>
-</p>
-
-
 Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的组件信息，并且在这里进行汇总。
 
 ## 阿里云

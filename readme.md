@@ -39,31 +39,31 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 </tr>
 <tr>
 <td align="center">1</td>
-<td>:fire:<a href="https://github.com/Serverless-Devs/express-alibaba-component/blob/master/readme.md">Express</a></td>
-<td>:fire::fire:<a href="https://github.com/Serverless-Devs/flask-alibaba-component/blob/master/readme.md">Flask</a></td>
+<td align="center">:fire:<a href="https://github.com/Serverless-Devs/express-alibaba-component/blob/master/readme.md">Express</a></td>
+<td align="center">:fire::fire:<a href="https://github.com/Serverless-Devs/flask-alibaba-component/blob/master/readme.md">Flask</a></td>
 <td></td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">2</td>
-<td><a href="https://github.com/Serverless-Devs/egg-alibaba-component/blob/master/readme.md">Egg</a></td>
-<td><a href="https://github.com/Serverless-Devs/tornado-alibaba-component/blob/master/readme.md">Tornado</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs/egg-alibaba-component/blob/master/readme.md">Egg</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs/tornado-alibaba-component/blob/master/readme.md">Tornado</a></td>
 <td></td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">3</td>
-<td><a href="https://github.com/Serverless-Devs/nextjs-alibaba-component/blob/master/readme.md">Nextjs</a></td>
-<td><a href="https://github.com/Serverless-Devs/bottle-alibaba-component/blob/master/readme.md">Bottle</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs/nextjs-alibaba-component/blob/master/readme.md">Nextjs</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs/bottle-alibaba-component/blob/master/readme.md">Bottle</a></td>
 <td></td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">4</td>
-<td><a href="https://github.com/Serverless-Devs/nuxtjs-alibaba-component/blob/master/readme.md">Nuxtjs</a></td>
-<td><a href="https://github.com/Serverless-Devs/webpy-alibaba-component/blob/master/readme.md">Web.py</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs/nuxtjs-alibaba-component/blob/master/readme.md">Nuxtjs</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs/webpy-alibaba-component/blob/master/readme.md">Web.py</a></td>
 <td></td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">5</td>
-<td> :fire::fire::fire: <a href="https://github.com/Serverless-Devs/hexo-alibaba-component/blob/master/readme.md" >Hexo</a></td>
+<td align="center"> :fire::fire::fire: <a href="https://github.com/Serverless-Devs/hexo-alibaba-component/blob/master/readme.md" >Hexo</a></td>
 <td></td><td></td><td></td><td></td><td></td>
 </tr>
 </table>

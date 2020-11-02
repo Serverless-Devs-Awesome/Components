@@ -215,8 +215,3 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 </tr>
 </table>
 
-## 帮助文档
-
-* [Package概念](https://github.com/Serverless-Devs/docs/blob/master/Serverless-Devs/Package概念区分.md)
-* [Package开发指南](https://github.com/Serverless-Devs/docs/blob/master/Serverless-Devs/Package开发指南.md)
-

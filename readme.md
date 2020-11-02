@@ -21,7 +21,7 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 </tr>
 <tr>
 <td align="center">1</td>
-<td align="center">:fire::fire::fire:<a href="https://github.com/Serverless-Devs/fc-alibaba-component/blob/master/readme.md">函数计算</a></td>
+<td align="center">:fire::fire::fire:<a href="https://github.com/Serverless-Devs-Awesome/fc-alibaba-component/blob/master/readme.md">函数计算</a></td>
 </tr>
 <tr>
 <td align="center">2</td>
@@ -51,8 +51,8 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 </tr>
 <tr>
 <td align="center">1</td>
-<td align="center">:fire:<a href="https://github.com/Serverless-Devs/express-alibaba-component/blob/master/readme.md">Express</a></td>
-<td align="center">:fire::fire:<a href="https://github.com/Serverless-Devs/flask-alibaba-component/blob/master/readme.md">Flask</a></td>
+<td align="center">:fire:<a href="https://github.com/Serverless-Devs-Awesome/express-alibaba-component/blob/master/readme.md">Express</a></td>
+<td align="center">:fire::fire:<a href="https://github.com/Serverless-Devs-Awesome/flask-alibaba-component/blob/master/readme.md">Flask</a></td>
 <td align="center">Think PHP</td>
 <td align="center">BeeGo</td>
 <td align="center">Tomcat/Jetty</td>
@@ -60,33 +60,33 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 </tr>
 <tr>
 <td align="center">2</td>
-<td align="center"><a href="https://github.com/Serverless-Devs/egg-alibaba-component/blob/master/readme.md">Egg</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs/tornado-alibaba-component/blob/master/readme.md">Tornado</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/egg-alibaba-component/blob/master/readme.md">Egg</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/tornado-alibaba-component/blob/master/readme.md">Tornado</a></td>
 <td align="center">laravel</td>
 <td align="center">Gin</td>
 <td align="center">Spring Boot</td><td></td>
 </tr>
 <tr>
 <td align="center">3</td>
-<td align="center"><a href="https://github.com/Serverless-Devs/nextjs-alibaba-component/blob/master/readme.md">Nextjs</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs/bottle-alibaba-component/blob/master/readme.md">Bottle</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/nextjs-alibaba-component/blob/master/readme.md">Nextjs</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/bottle-alibaba-component/blob/master/readme.md">Bottle</a></td>
 <td align="center">Discuz</td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">4</td>
-<td align="center"><a href="https://github.com/Serverless-Devs/nuxtjs-alibaba-component/blob/master/readme.md">Nuxtjs</a></td>
-<td align="center"><a href="https://github.com/Serverless-Devs/webpy-alibaba-component/blob/master/readme.md">Web.py</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/nuxtjs-alibaba-component/blob/master/readme.md">Nuxtjs</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/webpy-alibaba-component/blob/master/readme.md">Web.py</a></td>
 <td align="center">WordPress</td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">5</td>
-<td align="center"> :fire::fire::fire: <a href="https://github.com/Serverless-Devs/hexo-alibaba-component/blob/master/readme.md" >Hexo</a></td>
+<td align="center"> :fire::fire::fire: <a href="https://github.com/Serverless-Devs-Awesome/hexo-alibaba-component/blob/master/readme.md" >Hexo</a></td>
 <td align="center">Django</td>
 <td align="center">Zblog</td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">6</td>
-<td align="center"><a href="https://github.com/Serverless-Devs/koa-alibaba-component/blob/master/readme.md" >Koa</a></td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/koa-alibaba-component/blob/master/readme.md" >Koa</a></td>
 <td align="center">Hapi</td>
 <td></td><td></td><td></td><td></td>
 </tr>
@@ -109,7 +109,7 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 </tr>
 <tr>
 <td align="center">1</td>
-<td align="center">Lanbda</td>
+<td align="center"><a href="https://github.com/Serverless-Devs-Awesome/lambda-aws-component/blob/master/readme.md" >Lambda</a></td>
 </tr>
 </table>
 
@@ -184,11 +184,11 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 </tr>
 <tr>
 <td align="center">1</td>
-<td align="center">:fire:<a href="https://github.com/Serverless-Devs/scf-tencent-component/blob/master/readme.md">云函数</a></td>
+<td align="center">:fire:<a href="https://github.com/Serverless-Devs-Awesome/scf-tencent-component/blob/master/readme.md">云函数</a></td>
 </tr>
 <tr>
 <td align="center">2</td>
-<td align="center" >:fire:<a href="https://github.com/Serverless-Devs/apigateway-tencent-component/blob/master/readme.md">API网关</a></td>
+<td align="center" >:fire:<a href="https://github.com/Serverless-Devs-Awesome/apigateway-tencent-component/blob/master/readme.md">API网关</a></td>
 </tr>
 </table>
 

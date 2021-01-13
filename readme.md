@@ -56,7 +56,7 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 <td align="center">Think PHP</td>
 <td align="center">BeeGo</td>
 <td align="center">Tomcat/Jetty</td>
-<td align="center">Website</td>
+<td align="center">Gatsby</td>
 </tr>
 <tr>
 <td align="center">2</td>
@@ -64,13 +64,13 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/tornado-alibaba-component/blob/master/readme.md">Tornado</a></td>
 <td align="center">laravel</td>
 <td align="center">Gin</td>
-<td align="center">Spring Boot</td><td></td>
+<td align="center">Spring Boot</td><td>Hugo</td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/nextjs-alibaba-component/blob/master/readme.md">Nextjs</a></td>
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/bottle-alibaba-component/blob/master/readme.md">Bottle</a></td>
-<td align="center">Discuz</td><td></td><td></td><td></td>
+<td align="center">Discuz</td><td></td><td align="center">Quarkus</td><td></td>
 </tr>
 <tr>
 <td align="center">4</td>
@@ -88,7 +88,7 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 <td align="center">6</td>
 <td align="center"><a href="https://github.com/Serverless-Devs-Awesome/koa-alibaba-component/blob/master/readme.md" >Koa</a></td>
 <td align="center">Hapi</td>
-<td></td><td></td><td></td><td></td>
+<td>ReactPHP</td><td></td><td></td><td></td>
 </tr>
 <tr>
 <td align="center">7</td>

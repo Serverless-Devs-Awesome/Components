@@ -96,6 +96,12 @@ Serverless Devs Components 搜集了目前Serverless Devs App Store中已有的�
 <td align="center">Web2py</td>
 <td></td><td></td><td></td><td></td>
 </tr>
+<tr>
+<td align="center">8</td>
+<td align="center"></td>
+<td align="center">FastAPI</td>
+<td></td><td></td><td></td><td></td>
+</tr>
 </table>
 
 ## AWS
